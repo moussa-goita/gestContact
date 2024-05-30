@@ -30,5 +30,5 @@ Pour supprimer un contact de la liste, cliquez sur le lien "Supprimer" à côté
 Contributions
 Les contributions à l'amélioration de cette application sont les bienvenues ! Si vous souhaitez contribuer, veuillez créer une demande de tirage (pull request) avec vos modifications.
 
-#Licence
+# Licence
 Cette application est sous licence MIT. Consultez le fichier LICENSE pour plus d'informations.
